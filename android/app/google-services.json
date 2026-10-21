@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962225096878",
+    "project_id": "ersaycrmmobile",
+    "storage_bucket": "ersaycrmmobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962225096878:android:2ef7f777b870f62a61053f",
+        "android_client_info": {
+          "package_name": "com.example.ersay_crm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjTb9fAUQTBl-DeYcKCABVMBExydXYxPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
